@@ -61,7 +61,7 @@
       39,
       40
     ],
-    "visible_layers": "ffffffd_7fffffff",
+    "visible_layers": "ffeffbf_fffffffe",
     "zone_display_mode": 0
   },
   "git": {
@@ -71,7 +71,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Proyecto Relés.kicad_prl",
+    "filename": "Simple faz.kicad_prl",
     "version": 3
   },
   "project": {
